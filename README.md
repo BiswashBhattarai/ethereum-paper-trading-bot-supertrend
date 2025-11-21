@@ -1,7 +1,7 @@
-# ethereum-paper-trading-bot-supertrend
+## ethereum-paper-trading-bot-supertrend
 
-# About
+### About
 Paper trading bot using a supertrend strategy 
 
-# Tech Stack
+### Tech Stack
 Python
